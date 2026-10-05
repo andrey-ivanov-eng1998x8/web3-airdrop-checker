@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 Wallets and airdrops are cached in ~/.config/airdrop-checker/ so repeated runs don't hammer the sites.
 
-<!-- updated: 2026-10-04 -->
+<!-- updated: 2026-10-05 -->
